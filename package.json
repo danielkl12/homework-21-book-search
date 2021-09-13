@@ -17,7 +17,9 @@
   },
   "dependencies": {
     "apollo-server-express": "^3.3.0",
+    "bcrypt": "^5.0.1",
     "gql": "^1.1.2",
+    "jsonwebtoken": "^8.5.1",
     "mongoose": "^6.0.5",
     "nodemon": "^2.0.12"
   }
